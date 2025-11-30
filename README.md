@@ -15,12 +15,12 @@ An AI-powered resume analysis tool that helps users evaluate their resumes with 
 
 # Tech Stack
 
-* React — for building the UI with reusable components. 
-* React Router v7 — for navigation and routing in the app. 
-* Puter.js — for serverless auth, storage, database, and AI integrations (so no custom backend needed). 
-* Tailwind CSS — for styling and building a clean, responsive UI quickly. 
-* TypeScript — adds static typing to JavaScript, making the codebase more robust. 
-* Zustand — lightweight global state management library used for state handling across components.
+* React -for building the UI with reusable components. 
+* React Router v7 -for navigation and routing in the app. 
+* Puter.js - for serverless auth, storage, database, and AI integrations (so no custom backend needed). 
+* Tailwind CSS -for styling and building a clean, responsive UI quickly. 
+* TypeScript - adds static typing to JavaScript, making the codebase more robust. 
+* Zustand - lightweight global state management library used for state handling across components.
 
 # Live Demo
 
