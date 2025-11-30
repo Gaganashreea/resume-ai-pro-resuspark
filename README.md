@@ -6,11 +6,17 @@ An AI-powered resume analysis tool that helps users evaluate their resumes with 
 # Features
 
 📄 Upload your PDF resume
+
 🤖 AI-style resume scoring
+
 📊 ATS match analysis
+
 🎯 Missing keyword detection
+
 ✍️ Tone & style evaluation
+
 💡 Actionable suggestions for improvement
+
 ⚡ Fast, responsive UI built for real users
 
 # Tech Stack
